@@ -1,6 +1,15 @@
-# Boston-data
-The goal of this exercise is to pick out the top 5 earners in Boston (total salary + overtime) and list them out in the web page as shown below: Name Total Earned
+# BOSTON
 
-Next, pick out the number of people working in the city of Boston who earn over $100,000 and display it on the web page as shown below: Number of people working in Boston earning over $100,000 is xxxx.
+## Description:
 
-You are given file index1.html which you will need to edit. You can rename it to index.html for convenience. However, if you want to use GitHub Pages to display your README.md then Pages will use your index.html file instead.
+This JavaScript program retrieves and displays information about the top five earning employees in Boston, providing key details for each employee.
+
+### How to run the code:
+
+step1:Save the HTML file with .html extension.
+
+step2:Click the "Go Live" button.A new browser window will open, displaying Boston data.
+
+### Future Enhancement:
+
+Implementing a search or filter feature to allow users to specify custom criteria for identifying top earners within a larger dataset.
